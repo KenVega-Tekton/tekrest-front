@@ -1,12 +1,12 @@
 import React from 'react';
 
-import NavBar from './NavBar';
+import Header from './Header';
 import Main from './Main';
 import './App.css';
 
 const App = () => (
   <div>
-    <NavBar />
+    <Header />
     <Main />
   </div>
 );
