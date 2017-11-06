@@ -13,7 +13,7 @@ const Home = () => {
         </p>
         <p>
           <Link className="btn btn-primary btn-lg" to="#" role="button">
-            Learn more
+            Gracias!
           </Link>
         </p>
       </div>
